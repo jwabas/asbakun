@@ -1,0 +1,24 @@
+{
+  "name": "asbakun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwabas/asbakun.git"
+  },
+  "author": "jwabas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwabas/asbakun/issues"
+  },
+  "homepage": "https://github.com/jwabas/asbakun#readme",
+  "dependencies": {
+    "excavato": "^1.0.0",
+    "excaviar": "^1.0.0",
+    "not-rf-online": "^1.0.0"
+  }
+}
